@@ -32,6 +32,7 @@ Neste repositório você encontrará resoluções para exercícios envolvendo:
 ---
 
 Como Executar os Códigos
+
 1 - Faça o download e instale o VisuAlg.
 
 2 - Clone este repositório no seu computador:
@@ -40,7 +41,7 @@ git clone https://github.com/renatorb642/logica_de_programacao_visualg.git
 
 3 - Abra o VisuAlg, vá em Arquivo > Abrir e escolha qualquer um dos arquivos com extensão .alg.
 
-Pressione a tecla F9 para executar o código.
+4 - Pressione a tecla F9 para executar o código.
 
 Desenvolvido por: Renato Rocha
 Estudante de Tecnologia
