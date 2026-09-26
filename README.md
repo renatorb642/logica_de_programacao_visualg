@@ -25,8 +25,8 @@ O objetivo deste repositório é documentar meu aprendizado inicial em programa�
 
 Neste repositório você encontrará resoluções para exercícios envolvendo:
 
-- [x] Entrada e Saída de Dados (`escreva`, `leia`)
-- [x] Estruturas Condicionais (`se ... entao ... senao`)
-- [x] Laços de Repetição (`enquanto`, `para`, `repita`)
+- Entrada e Saída de Dados (`escreva`, `leia`)
+- Estruturas Condicionais (`se ... entao ... senao`)
+- Laços de Repetição (`enquanto`, `para`, `repita`)
 
 ---
