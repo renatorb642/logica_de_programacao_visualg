@@ -3,7 +3,7 @@ Exercícios de lógica de programação e algoritmos desenvolvidos no VisuAlg du
 
 # Lógica de Programação e Algoritmos com VisuAlg
 
-Repositório criado para armazenar e organizar as atividades práticas desenvolvidos na faculdade usando a ferramenta **VisuAlg** (Portugol).
+Repositório criado para armazenar e organizar as atividades práticas desenvolvidos na faculdade usando a ferramenta **VisuAlg**.
 
 ---
 
